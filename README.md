@@ -150,7 +150,6 @@ tasks with minimal human intervention.
 **Issue**: llama3 model not found
 - **Solution**: Run `ollama pull llama3` in terminal.
 
-## Demo
 
 ## Demo
 
@@ -159,8 +158,6 @@ tasks with minimal human intervention.
 
 ### Generated Blog Output
 ![Generated Blog](screenshots/blog_generated_screenshot.png)
-
-
 
 
 
@@ -179,4 +176,5 @@ Contributions are welcome! Feel free to submit issues or pull requests for impro
 - Support multiple LLM backends (e.g., OpenAI, Hugging Face) in addition to Ollama.
 - Improve research quality by aggregating results from multiple sources.
 - Add persistent storage for generated blogs and research history.
+
 
